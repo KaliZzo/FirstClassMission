@@ -1,0 +1,19 @@
+.BOX1 {border-style: solid;
+display: inline-block;
+text-decoration: none;
+width: 200px;
+
+
+}
+
+
+.BOX2{border-style: solid;
+    margin: 0px 10px 0px 10px;
+    font-size: 25px;
+}
+
+
+    .BOX3{border-style: solid;
+        font-size: 12px;
+        margin: 0;
+    }
